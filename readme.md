@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shubham_1_" target="blank"><img src="https://img.shields.io/twitter/follow/shubham_1_?logo=twitter&style=for-the-badge" alt="shubham_1_" /></a> </p>
 
-- 🔭 I’m currently working on [ProgramIND](https://programmind.000webhostapp.com)
-
-- 🌱 I’m currently learning **Bootstrap & Javascript**
-
-- 💬 Ask me about **C++| HTML | CSS | Python**
+- 💬 Experienced in **Python | C++ | JAVA | WEB-DEV**
 
 - 📫 How to reach me **work.shubh.01@gmail.com**
 
