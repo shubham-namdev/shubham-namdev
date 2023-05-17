@@ -1,5 +1,5 @@
 
-<p align="left"> <a href="https://leetcode.com/shubham-namdev/" target="blank"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="shubham-namdev" /></a> </p>
+<p align="left"> <a href="https://leetcode.com/shubham-namdev/" target="blank"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="shubham-namdev" height="30" width="30" /></a> </p>
 
 - 🔭 Hii 👋🏻
 
