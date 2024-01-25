@@ -4,13 +4,10 @@
 <p align="left"> <a href="https://leetcode.com/shubham-namdev/" target="blank"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="shubham-namdev" height="30" width="30" />shubham-namdev</a> </p>
 
 - 🔭 Hii 👋🏻
-
-- 🌱 I’m currently working on **Deep Leaning**
-
-- 💬 Ask me about **Machine Leaning | AI | Deep Learning | NLP**
+- 💬 Ask me about **Python | Databases**
 - 💬 Experienced in **Python | C++ | JAVA | WEB-DEV**
 
-- 📫 How to reach me **work.shubh.01@gmail.com**
+- 📫 How to reach me **shubhamsnamdev124@gmail.com**
 
 - ⚡ Fun fact **I sometimes react as an expert 😄**
 <h3 align="left">Connect with me:</h3>
